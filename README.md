@@ -11,6 +11,9 @@
 pip3 install opencv-python
 ```
 
+### Vehicle Setting
+![image](https://user-images.githubusercontent.com/96720274/160357060-cc2c5b5f-dfb5-4843-bd11-ba59ce2c2d5e.png)
+
 ### Usage
 ```
 roslaunch rosbridge_server rosbridge_websocket.launch
