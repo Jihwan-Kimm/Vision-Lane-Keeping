@@ -8,7 +8,7 @@
 
 ### Installation
 ```
-pip3 install python-opencv
+pip3 install opencv-python
 ```
 
 ### Usage
